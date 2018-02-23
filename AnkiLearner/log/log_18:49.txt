@@ -1,0 +1,1 @@
+{"Mouse100.jpg": "mouse", "Mouse100_0.jpg": "mouse", "Mouse100_2.jpg": "mouse", "Mouse100_3.jpg": "mouse", "Mouse100_4.jpg": "mouse", "Mouse100_5.jpg": "mouse", "Mouse100_6.jpg": "pen", "Mouse100_7.jpg": "nothing"}

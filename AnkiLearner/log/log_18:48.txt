@@ -1,0 +1,1 @@
+{"Cozmo61.jpg": "cozmo", "Cozmo61_0.jpg": "cozmo", "Cozmo61_2.jpg": "cozmo", "Cozmo61_3.jpg": "cozmo", "Cozmo61_4.jpg": "cozmo", "Cozmo61_5.jpg": "nothing", "Cozmo61_6.jpg": "nothing", "Cozmo61_7.jpg": "nothing"}

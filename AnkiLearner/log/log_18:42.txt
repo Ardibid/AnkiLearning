@@ -1,0 +1,1 @@
+{"Pen69.jpg": "pen", "Pen69_0.jpg": "nothing", "Pen69_2.jpg": "pen", "Pen69_3.jpg": "pen", "Pen69_4.jpg": "pen", "Pen69_5.jpg": "nothing", "Pen69_6.jpg": "nothing", "Pen69_7.jpg": "nothing"}
