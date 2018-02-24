@@ -17,11 +17,3 @@ For image detection, I used slicing technique to divide the image into vertical 
 
 The overall architecture is illustrated here:
 ![Image Detection](https://github.com/Ardibid/AnkiLearning/blob/master/Media/02-0.png)
-
-You can find more info in this [slideshow](https://github.com/Ardibid/AnkiLearning/blob/master/Media/AnkiWhere.gslides). 
-
-
-
-
-
-
